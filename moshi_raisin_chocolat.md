@@ -2,13 +2,15 @@
 
 ## Pâte à moshi
 
-- Jus de raisin: 500ml
+- Fécule (20g?)
+- Jus de raisin: 200ml
+- Eau : 100 ml
 - Farine de riz gluant:200g
 - Sucre: 75g à 100g selon la teneur en sucre des raisins
 
-Mélanger farine et sucre puis ajouter le jus progressivement
+Mélanger farine et sucre puis ajouter le jus et l'eau progressivement
 Passer 4mn30 au micro-onde
-Mélanger et laisser refroidir la pâte de riz
+Mélanger et laisser refroidir la pâte de riz après l'avoir déposé sur du papier sulfurisé avec de la fécule pour éviter que ça colle
 
 ## Ganache
 - 60 g de chocolat pâtissier (54% de chocolat) 
