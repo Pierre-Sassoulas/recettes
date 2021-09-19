@@ -1,30 +1,32 @@
 # Mochi raisin-chocolat
 
+
+## Ganache (à préparer en avance pour qu'elle puisse refroidir)
+- 100 g de chocolat pâtissier (54% de chocolat) 
+- 100ml de crème
+
+- Faire bouillir la crème
+- Mettre le chocolat en carée dans un bol
+- Ajouter la crème bouillante et mélanger jusqu'à ce que ça soit homogène
+- Laisser refroidir au frigo
+
 ## Pâte à moshi
 
+### Ingrédient
 - Fécule (20g?)
-- Jus de raisin: 200ml
-- Eau : 100 ml
+- Jus de raisin: 300ml
 - Farine de riz gluant:200g
 - Sucre: 75g à 100g selon la teneur en sucre des raisins
 
-Mélanger farine et sucre puis ajouter le jus et l'eau progressivement
-Passer 4mn30 au micro-onde
-Mélanger et laisser refroidir la pâte de riz après l'avoir déposé sur du papier sulfurisé avec de la fécule pour éviter que ça colle
+### Préparation
 
-## Ganache
-- 60 g de chocolat pâtissier (54% de chocolat) 
-- 50g de beurre
-- 50g de poudre d'amande
-- 5ml d'eau
+- Mélanger farine et sucre puis ajouter le jus et l'eau progressivement
+- Passer 2mn30 au micro-onde
+- Mélanger
+- Passer 2mn au micro-onde
+- Mélanger
+- Laisser refroidir la pâte de riz après l'avoir déposé sur du papier sulfurisé avec de la fécule pour éviter que ça colle
 
-Mettre le chocolat et l'eau dans un bol
-30s au micro-onde
-Mélanger
-20s au micro-onde
-Ajouter le beurre et mélanger
-Ajouter la poudre d'amande et mélanger
-Laisser refroidir au frigo
 
 ## Assemblage
 
