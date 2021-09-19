@@ -2,8 +2,12 @@
 
 
 ## Ganache (à préparer en avance pour qu'elle puisse refroidir)
+
+### Ingrédient
 - 100 g de chocolat pâtissier (54% de chocolat) 
 - 100ml de crème
+
+### Préparation
 
 - Faire bouillir la crème
 - Mettre le chocolat en carée dans un bol
