@@ -9,9 +9,9 @@ une dose = 1 verre
 - Huile (une demi dose à une dose, peut importe laquelle, sauf huile d'olive)
 - 3 oeufs
 - Farines (trois doses, pas plus de 1 dose de sarasins, châteigne ou blédine, pas plus de une dose de poudre d'amande/noix/coco, pas moins de une dose de farine de blé traditionelle)
-- Sucre (une dose et demi et des cranberries/oranges confites/plus de chocolar, ou un dose trois quart)
+- Sucre (une dose un quart et des cranberries/oranges confites/plus de chocolat, ou un dose et demi)
 - levures : un sachet complet de levure chimique
-- Optionel: noix/noisettes pour ùettre sur le gâteau (deux ou trois poignées)
+- Optionel: noix/noisettes pour mettre sur le gâteau (deux ou trois poignées)
 - Eau 5ml
 
 # Recette
