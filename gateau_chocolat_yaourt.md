@@ -8,7 +8,7 @@ une dose = 1 verre
 - Fromage blanc (entre une dose et deux doses)
 - Huile (une demi dose à une dose, peut importe laquelle, sauf huile d'olive)
 - 3 oeufs
-- Farines (trois doses, pas plus de 1 dose de sarasins ou châteigne, pas plus de une dose de poudre d'amande/noix/coco, pas moins de une dose de farine de blé traditionelle)
+- Farines (trois doses, pas plus de 1 dose de sarasins, châteigne ou blédine, pas plus de une dose de poudre d'amande/noix/coco, pas moins de une dose de farine de blé traditionelle)
 - Sucre (une dose et demi et des cranberries/oranges confites/plus de chocolar, ou un dose trois quart)
 - levures : un sachet complet de levure chimique
 - Optionel: noix/noisettes pour ùettre sur le gâteau (deux ou trois poignées)
