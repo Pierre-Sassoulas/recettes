@@ -1,5 +1,6 @@
 # Mochi raisin-chocolat
 
+![moshi raisin chocolat](moshi.jpg)
 
 ## Ganache (à préparer en avance pour qu'elle puisse refroidir)
 
